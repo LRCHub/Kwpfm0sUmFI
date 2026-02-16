@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "みたび不定職者 [Remix]",
+  "base_artist": "SEEDA",
+  "createdAt": "2026-02-16T12:43:55.304889Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "みたび不定職者 (feat. Jinmenusagi & ID)",
+      "artist": "SEEDA",
+      "has_synced": false,
+      "path": "select/pl_01_みたび不定職者_(feat._Jinmenusagi_&_ID)_SEEDA.txt"
+    }
+  ]
+}
